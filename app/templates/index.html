@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Classificador de Currículos</title>
+</head>
+<body>
+    <h1>Envie um currículo (PDF)</h1>
+    <form action="/classify" method="post" enctype="multipart/form-data">
+        <input type="file" name="resume" accept="application/pdf" required>
+        <input type="submit" value="Classificar">
+    </form>
+</body>
+</html>
