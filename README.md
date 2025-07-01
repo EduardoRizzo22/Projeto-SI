@@ -31,7 +31,7 @@ python train_model.py
 
 ### 5. Rodar a aplicação
 ```bash
-python app.py
+python main.py
 ```
 
 ### 6. Acessar via navegador
