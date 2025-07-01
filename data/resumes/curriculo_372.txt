@@ -1,0 +1,4 @@
+Nome: Alice Nunes
+Idade: 31
+Escolaridade: Post-Graduated
+Experiência: Mestre em Engenharia Biomédica. Especialista em desenvolvimento de dispositivos médicos e processamento de sinais biológicos. Atuou em projetos de pesquisa e desenvolvimento.

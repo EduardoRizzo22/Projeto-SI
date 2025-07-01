@@ -1,0 +1,4 @@
+Nome: César Dias
+Idade: 34
+Escolaridade: Graduado
+Experiência: Cientista de dados com 9 anos de experiência em machine learning e estatística. Desenvolveu modelos preditivos para otimização de negócios e detecção de fraudes. Proficiente em R e Python para análise de dados.

@@ -1,0 +1,4 @@
+Nome: João Pedro Almeida
+Idade: 27
+Escolaridade: Graduated
+Experiência: Desenvolvedor Frontend Júnior com 3 anos de experiência em HTML, CSS e JavaScript. Contribuiu para o desenvolvimento de sites responsivos e acessíveis. Ansioso para aprender React e Angular.

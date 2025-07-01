@@ -1,0 +1,4 @@
+Nome: Wagner Santos
+Idade: 36
+Escolaridade: Graduated
+Experiência: Engenheiro de DevOps com 10 anos de experiência em automação de infraestrutura e CI/CD. Implementou pipelines de deploy e gerenciou ambientes de nuvem (AWS, Azure, GCP).

@@ -1,0 +1,4 @@
+Nome: Maria Santos
+Idade: 22
+Escolaridade: Graduando
+Experiência: Estudante do terceiro ano de ciência da computação com forte interesse em análise de dados. Desenvolveu uma ferramenta básica de análise de sentimento usando Python. Ansiosa para ganhar experiência prática em um ambiente de tecnologia dinâmico.

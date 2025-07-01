@@ -1,0 +1,4 @@
+Nome: Sofia Pereira
+Idade: 30
+Escolaridade: Pós-Graduada
+Experiência: Doutora em Inteligência Artificial. Pesquisa focada em processamento de linguagem natural e algoritmos de aprendizado de máquina. Publicou 3 artigos em periódicos revisados por pares. Buscando cargos em pesquisa de IA ou ciência de dados.

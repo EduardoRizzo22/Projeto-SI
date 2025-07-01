@@ -1,0 +1,4 @@
+Nome: Úrsula Pires
+Idade: 31
+Escolaridade: Graduated
+Experiência: Analista de Testes de Software Sênior com 7 anos de experiência em automação de testes e garantia de qualidade. Implementou frameworks de automação e gerenciou equipes de QA.

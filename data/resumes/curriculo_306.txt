@@ -1,0 +1,4 @@
+Nome: Hugo Costa
+Idade: 23
+Escolaridade: Undergraduate
+Experiência: Estudante de quarto ano de engenharia de software, com interesse em segurança cibernética. Participou de competições de hacking ético. Eager para aprofundar conhecimentos em segurança de rede.

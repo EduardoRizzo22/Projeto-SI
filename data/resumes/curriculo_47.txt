@@ -1,0 +1,4 @@
+Nome: Daniel Pinto
+Idade: 21
+Escolaridade: Graduando
+Experiência: Estudante de Ciência da Computação. Desenvolveu um aplicativo móvel simples para gerenciamento de tarefas. Interesse em desenvolvimento de software e inteligência artificial.

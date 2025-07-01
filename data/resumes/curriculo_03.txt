@@ -1,0 +1,4 @@
+Nome: Pedro Costa
+Idade: 35
+Escolaridade: Pós-Graduado
+Experiência: Gerente de projetos sênior com 10 anos de experiência supervisionando projetos complexos de TI. Histórico comprovado de entrega de projetos dentro do prazo e do orçamento. Habilidoso em metodologias Ágil e liderança de equipe. Trabalhou anteriormente em implementações de software corporativo em larga escala.

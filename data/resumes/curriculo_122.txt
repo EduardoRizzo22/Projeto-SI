@@ -1,0 +1,4 @@
+Nome: Bento Cardoso
+Idade: 27
+Escolaridade: Graduado
+Experiência: Analista de Sistemas com 5 anos de experiência em desenvolvimento e manutenção de sistemas web. Proficiente em Java, Spring Boot e SQL. Colaborou em projetos de grande porte para bancos e financeiras.

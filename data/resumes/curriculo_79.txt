@@ -1,0 +1,4 @@
+Nome: João Vasconcelos
+Idade: 32
+Escolaridade: Graduado
+Experiência: Engenheiro de Telecomunicações com 8 anos de experiência em redes e sistemas de comunicação. Projetou e implementou infraestruturas de rede para operadoras e empresas. Proficiente em protocolos de rede.

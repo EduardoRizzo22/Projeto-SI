@@ -1,0 +1,4 @@
+Nome: Mauro Pinto
+Idade: 39
+Escolaridade: Pós-Graduado
+Experiência: Doutor em Geografia. Pesquisa em geoprocessamento e sensoriamento remoto para estudos ambientais. Atua como professor universitário e consultor para projetos de mapeamento.

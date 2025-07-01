@@ -1,0 +1,4 @@
+Nome: Osmar Dias
+Idade: 31
+Escolaridade: Post-Graduated
+Experiência: Mestre em Ciência da Computação. Especialista em segurança de dados e criptografia. Desenvolveu algoritmos para proteção de informações em sistemas distribuídos.

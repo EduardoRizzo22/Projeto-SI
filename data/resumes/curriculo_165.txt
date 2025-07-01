@@ -1,0 +1,4 @@
+Nome: Teodoro Nogueira
+Idade: 45
+Escolaridade: Pós-Graduado
+Experiência: Mestre em Inteligência Artificial. Especialista em redes neurais e visão computacional. Desenvolveu algoritmos para reconhecimento de imagem e análise de vídeo em sistemas de segurança.

@@ -1,0 +1,4 @@
+Nome: Pedro Ribeiro
+Idade: 42
+Escolaridade: Graduated
+Experiência: Arquiteto de Soluções com 17 anos de experiência em design de sistemas distribuídos e microsserviços. Liderou a transformação digital de grandes empresas, focando em escalabilidade e resiliência.

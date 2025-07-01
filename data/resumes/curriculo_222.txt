@@ -1,0 +1,4 @@
+Nome: Yuri Almeida
+Idade: 39
+Escolaridade: Pós-Graduada
+Experiência: Mestre em Engenharia de Telecomunicações. Especialista em redes sem fio e comunicação móvel. Desenvolveu sistemas para otimização de cobertura e qualidade de serviço.

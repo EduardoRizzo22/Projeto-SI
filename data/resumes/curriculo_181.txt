@@ -1,0 +1,4 @@
+Nome: João Lucas Costa
+Idade: 27
+Escolaridade: Graduado
+Experiência: Desenvolvedor Full-stack Júnior com 2 anos de experiência em React e Node.js. Contribuiu para o desenvolvimento de aplicações web e APIs. Ansioso por aprender e crescer na área.

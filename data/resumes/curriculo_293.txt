@@ -1,0 +1,4 @@
+Nome: Ubiratan Silva
+Idade: 38
+Escolaridade: Pós-Graduado
+Experiência: Doutor em Ciência da Computação. Pesquisa em sistemas embarcados e robótica. Atua como professor universitário e consultor para projetos de automação.

@@ -1,0 +1,4 @@
+Nome: João Pedro Santos
+Idade: 26
+Escolaridade: Graduated
+Experiência: Desenvolvedor Full-stack Júnior com 3 anos de experiência em React, Node.js e Express. Contribuiu para o desenvolvimento de aplicações web e APIs RESTful.

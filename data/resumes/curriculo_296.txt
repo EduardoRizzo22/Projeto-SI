@@ -1,0 +1,4 @@
+Nome: Xavier Ramos
+Idade: 35
+Escolaridade: Pós-Graduada
+Experiência: Mestre em Engenharia Mecatrônica. Especialista em robótica e sistemas de controle. Desenvolveu protótipos de robôs para aplicações industriais e de serviço.

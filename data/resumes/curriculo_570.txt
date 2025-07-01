@@ -1,0 +1,4 @@
+Nome: Úrsula Rodrigues
+Idade: 31
+Escolaridade: Graduada
+Experiência: Especialista em Compliance com 7 anos de experiência em regulamentações de dados e privacidade (LGPD, GDPR). Implementou políticas de compliance em empresas de tecnologia e financeiras.

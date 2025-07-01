@@ -1,0 +1,4 @@
+Nome: Sérgio Cruz
+Idade: 26
+Escolaridade: Graduada
+Experiência: Analista de dados com 4 anos de experiência em SQL e Python para análise de dados. Criou dashboards e relatórios para insights de negócios em empresas de varejo e e-commerce.

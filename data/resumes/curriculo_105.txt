@@ -1,0 +1,4 @@
+Nome: Kauan Lima
+Idade: 27
+Escolaridade: Graduado
+Experiência: Desenvolvedor Mobile com 5 anos de experiência em desenvolvimento de aplicativos iOS e Android. Proficiente em Swift, Kotlin e React Native. Publicou diversos aplicativos na App Store e Google Play.

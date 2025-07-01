@@ -1,0 +1,4 @@
+Nome: Sérgio Mota
+Idade: 24
+Escolaridade: Undergraduate
+Experiência: Estudante de quarto ano de ciência da computação, com interesse em desenvolvimento de jogos. Criou jogos simples em Unity. Eager para trabalhar em estúdios de jogos.

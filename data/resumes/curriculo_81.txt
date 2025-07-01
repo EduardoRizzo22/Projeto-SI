@@ -1,0 +1,4 @@
+Nome: Marcelo Antunes
+Idade: 40
+Escolaridade: Pós-Graduado
+Experiência: Doutor em Ciência da Computação. Pesquisa em inteligência artificial e aprendizado de máquina. Atua como professor e consultor em projetos de IA para empresas.

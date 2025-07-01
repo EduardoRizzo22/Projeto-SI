@@ -1,0 +1,4 @@
+Nome: Wagner Costa
+Idade: 36
+Escolaridade: Graduated
+Experiência: Engenheiro de Dados com 10 anos de experiência em construção de arquiteturas de dados escaláveis. Proficiente em Spark, Hadoop e nuvem (AWS, Azure, GCP). Trabalhou com grandes volumes de dados.

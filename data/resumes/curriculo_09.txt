@@ -1,0 +1,4 @@
+Nome: Francisco Alves
+Idade: 45
+Escolaridade: Pós-Graduado
+Experiência: Diretor de Tecnologia (CTO) com mais de 20 anos de experiência em liderança tecnológica. Dimensionou com sucesso várias startups do estágio inicial à oferta pública. Profundo conhecimento em arquitetura de nuvem, cibersegurança e planejamento estratégico.

@@ -1,0 +1,4 @@
+Nome: Sérgio Castro
+Idade: 26
+Escolaridade: Graduado
+Experiência: Desenvolvedor back-end com 4 anos de experiência em Python e Django. Desenvolveu APIs RESTful e sistemas de banco de dados. Trabalhou em projetos para startups e empresas de tecnologia.

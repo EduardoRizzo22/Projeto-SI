@@ -1,0 +1,4 @@
+Nome: Fernando Sales
+Idade: 34
+Escolaridade: Pós-Graduado
+Experiência: Doutor em Robótica. Pesquisa em controle de robôs e inteligência artificial para sistemas autônomos. Desenvolveu algoritmos para navegação e manipulação robótica.

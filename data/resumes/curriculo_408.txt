@@ -1,0 +1,4 @@
+Nome: Kleber Silva
+Idade: 33
+Escolaridade: Post-Graduated
+Experiência: Mestre em Ciência dos Dados. Especialista em aprendizado de máquina e visão computacional. Desenvolveu algoritmos para reconhecimento de imagem em projetos de IA.

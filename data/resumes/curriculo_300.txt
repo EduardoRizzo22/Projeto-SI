@@ -1,0 +1,4 @@
+Nome: Bruno Rocha
+Idade: 22
+Escolaridade: Undergraduate
+Experiência: Estudante de terceiro ano de ciência da computação com forte interesse em machine learning. Desenvolveu um sistema de recomendação básico usando Python. Ansioso por experiência em IA.

@@ -1,0 +1,4 @@
+Nome: Thiago Lima
+Idade: 25
+Escolaridade: Graduated
+Experiência: Analista de Suporte de Redes com 3 anos de experiência em configuração e manutenção de redes LAN/WAN. Resolveu problemas de conectividade e segurança de rede para empresas de TI.

@@ -1,0 +1,4 @@
+Nome: Wagner Lima
+Idade: 36
+Escolaridade: Graduado
+Experiência: Especialista em Redes e Infraestrutura com 10 anos de experiência em design e implementação de redes corporativas. Administrou servidores e sistemas operacionais. Certificado CCNA.

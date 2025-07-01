@@ -1,0 +1,4 @@
+Nome: Vitorino Mendes
+Idade: 30
+Escolaridade: Graduado
+Experiência: Arquiteto de Software com 8 anos de experiência em design e implementação de arquiteturas escaláveis. Proficiente em Java, Python e microsserviços. Liderou o desenvolvimento de plataformas complexas.

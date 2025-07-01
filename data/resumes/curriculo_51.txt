@@ -1,0 +1,4 @@
+Nome: Hugo Castro
+Idade: 43
+Escolaridade: Graduado
+Experiência: Especialista em Logística com 15 anos de experiência em gestão de cadeia de suprimentos e otimização de rotas. Implementou sistemas de gestão de armazém (WMS) e transporte (TMS).

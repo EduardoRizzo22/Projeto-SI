@@ -1,0 +1,4 @@
+Nome: Rui Mendes
+Idade: 34
+Escolaridade: Graduado
+Experiência: Engenheiro de Produção com 10 anos de experiência em otimização de processos industriais. Implementou metodologias Lean e Six Sigma. Reduziu custos de produção e aumentou a eficiência em fábricas.

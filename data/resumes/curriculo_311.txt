@@ -1,0 +1,4 @@
+Nome: Nuno Pires
+Idade: 38
+Escolaridade: Post-Graduated
+Experiência: Doutor em Engenharia Elétrica. Pesquisa em sistemas de energia renovável e redes inteligentes. Publicou artigos sobre otimização de sistemas de energia e eficiência energética.

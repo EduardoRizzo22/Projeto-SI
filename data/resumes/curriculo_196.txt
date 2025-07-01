@@ -1,0 +1,4 @@
+Nome: Ygor Santos
+Idade: 26
+Escolaridade: Graduado
+Experiência: Analista de Business Intelligence com 4 anos de experiência em extração, transformação e carregamento de dados (ETL). Criou relatórios e dashboards para análise de desempenho de vendas.

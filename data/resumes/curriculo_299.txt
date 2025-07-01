@@ -1,0 +1,4 @@
+Nome: Alice Silva
+Idade: 28
+Escolaridade: Graduada
+Experiência: Engenheira de Software Frontend com 5 anos de experiência em React e TypeScript. Desenvolveu interfaces de usuário complexas e otimizou a performance de aplicações web.

@@ -1,0 +1,4 @@
+Nome: Felipe Brandão
+Idade: 34
+Escolaridade: Graduado
+Experiência: Cientista de Dados com 9 anos de experiência em análise de dados e machine learning. Desenvolveu modelos preditivos para otimização de campanhas de marketing e detecção de fraudes.

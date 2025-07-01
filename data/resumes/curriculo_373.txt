@@ -1,0 +1,4 @@
+Nome: Bruno Sampaio
+Idade: 27
+Escolaridade: Graduated
+Experiência: Analista de Business Intelligence com 5 anos de experiência em modelagem de dados e criação de dashboards. Proficiente em SQL e ferramentas de BI (Power BI, Tableau).

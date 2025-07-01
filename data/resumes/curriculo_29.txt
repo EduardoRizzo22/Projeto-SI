@@ -1,0 +1,4 @@
+Nome: Igor Mendes
+Idade: 46
+Escolaridade: Graduado
+Experiência: Arquiteto de soluções com 20 anos de experiência em design de sistemas complexos. Especialista em arquitetura de software empresarial e integração de sistemas. Liderou equipes de arquitetos em grandes projetos de transformação digital.

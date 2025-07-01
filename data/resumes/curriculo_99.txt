@@ -1,0 +1,4 @@
+Nome: Elias Nunes
+Idade: 39
+Escolaridade: Pós-Graduado
+Experiência: Doutor em Engenharia Mecânica. Pesquisa em dinâmica de fluidos e termodinâmica. Publicou artigos em revistas de alto impacto e trabalhou em projetos de otimização de motores.

@@ -1,0 +1,4 @@
+Nome: Sérgio Moreira
+Idade: 24
+Escolaridade: Undergraduate
+Experiência: Estudante de quarto ano de ciência da computação, com interesse em inteligência artificial. Desenvolveu um sistema de recomendação básico. Ansioso por experiência em projetos de IA.

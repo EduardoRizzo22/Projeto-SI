@@ -1,0 +1,4 @@
+Nome: Breno Pereira
+Idade: 22
+Escolaridade: Undergraduate
+Experiência: Estudante de terceiro ano de engenharia de software, com interesse em desenvolvimento web. Desenvolveu sites responsivos usando React e Node.js. Ansioso por experiência prática.

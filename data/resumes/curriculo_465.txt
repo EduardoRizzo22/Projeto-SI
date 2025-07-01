@@ -1,0 +1,4 @@
+Nome: Rafaela Pereira
+Idade: 25
+Escolaridade: Graduated
+Experiência: Cientista de Dados Júnior com 2 anos de experiência em análise exploratória de dados e modelagem estatística. Proficiente em Python e R.

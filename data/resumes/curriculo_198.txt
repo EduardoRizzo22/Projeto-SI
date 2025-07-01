@@ -1,0 +1,4 @@
+Nome: Adalberto Pinho
+Idade: 37
+Escolaridade: Pós-Graduado
+Experiência: Mestre em Engenharia de Software. Especialista em desenvolvimento ágil e DevOps. Liderou equipes de desenvolvimento e implementou pipelines de CI/CD.

@@ -1,0 +1,4 @@
+Nome: Xavier Faria
+Idade: 35
+Escolaridade: Pós-Graduada
+Experiência: Mestre em gestão de projetos. Especialista em metodologia SCRUM e PMBOK. Liderou projetos complexos de transformação digital em empresas de grande porte.

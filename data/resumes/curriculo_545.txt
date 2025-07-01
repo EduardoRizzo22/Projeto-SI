@@ -1,0 +1,4 @@
+Nome: Ubirajara Alves
+Idade: 38
+Escolaridade: Graduated
+Experiência: Engenheiro Mecatrônico com 12 anos de experiência em robótica industrial e automação. Projetou e implementou células robotizadas para indústrias automotivas e de manufatura.

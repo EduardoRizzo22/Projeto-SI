@@ -1,0 +1,4 @@
+Nome: Vitor Santos
+Idade: 48
+Escolaridade: Post-Graduated
+Experiência: Professor Universitário e Pesquisador Sênior em Inteligência Artificial. Com 20 anos de docência, é referência em algoritmos de aprendizado profundo. Lidera projetos de pesquisa inovadores em visão computacional.

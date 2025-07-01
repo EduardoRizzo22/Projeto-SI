@@ -1,0 +1,4 @@
+Nome: Valdir Mendes
+Idade: 20
+Escolaridade: Graduando
+Experiência: Estudante de Ciência da Computação. Desenvolveu um pequeno jogo em Python. Interesse em desenvolvimento de jogos e inteligência artificial.

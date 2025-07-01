@@ -1,0 +1,4 @@
+Nome: Ubiratã Soares
+Idade: 50
+Escolaridade: Pós-Graduado
+Experiência: Professor universitário e pesquisador na área de Inteligência Artificial. Orientou inúmeros trabalhos de graduação e pós-graduação. Autor de livros e artigos sobre machine learning e visão computacional.

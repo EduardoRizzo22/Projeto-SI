@@ -1,0 +1,4 @@
+Nome: Júlio Cruz
+Idade: 32
+Escolaridade: Pós-Graduado
+Experiência: Mestre em Engenharia de Produção. Especialista em otimização de processos e gestão da qualidade. Implementou sistemas de gestão integrada em indústrias de manufatura.

@@ -1,0 +1,4 @@
+Nome: João Silva
+Idade: 28
+Escolaridade: Graduado
+Experiência: Engenheiro de software experiente com 5 anos em desenvolvimento web. Proficiente em Python, JavaScript e React. Liderou múltiplos projetos do conceito à implantação, focando em soluções escaláveis e de fácil manutenção. Fortes habilidades de resolução de problemas e paixão por aprender novas tecnologias.

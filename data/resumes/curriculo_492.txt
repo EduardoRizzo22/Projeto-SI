@@ -1,0 +1,4 @@
+Nome: Samuel Pinto
+Idade: 27
+Escolaridade: Graduated
+Experiência: Analista de BI com 5 anos de experiência em modelagem de dados e criação de dashboards. Proficiente em SQL e ferramentas de visualização (Tableau, Power BI).

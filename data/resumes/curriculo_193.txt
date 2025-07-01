@@ -1,0 +1,4 @@
+Nome: Vinícius Dias
+Idade: 20
+Escolaridade: Graduando
+Experiência: Estudante de Jogos Digitais. Desenvolveu protótipos de jogos e participou de game jams. Interesse em design de jogos e programação de gameplay.

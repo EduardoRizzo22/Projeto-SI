@@ -1,0 +1,4 @@
+Nome: Bento Rocha
+Idade: 27
+Escolaridade: Graduated
+Experiência: Analista de Suporte de TI com 5 anos de experiência em suporte a sistemas e aplicações. Resolveu problemas de software e hardware para usuários corporativos.

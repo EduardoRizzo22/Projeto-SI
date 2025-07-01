@@ -1,0 +1,4 @@
+Nome: Yuri Lima
+Idade: 35
+Escolaridade: Pós-Graduado
+Experiência: Mestre em Finanças Quantitativas. Especialista em modelagem financeira e análise de risco. Desenvolveu algoritmos para otimização de investimentos em mercados de capitais.

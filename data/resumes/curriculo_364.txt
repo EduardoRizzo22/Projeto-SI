@@ -1,0 +1,4 @@
+Nome: Samuel Pinto
+Idade: 26
+Escolaridade: Graduated
+Experiência: Engenheiro de Software Backend com 4 anos de experiência em Java e Spring Boot. Desenvolveu APIs robustas e escaláveis para sistemas financeiros.

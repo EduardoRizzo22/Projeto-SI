@@ -1,0 +1,4 @@
+Nome: Heitor Moreira
+Idade: 45
+Escolaridade: Graduado
+Experiência: Gerente de TI com 20 anos de experiência em infraestrutura e segurança de sistemas. Liderou equipes de suporte e desenvolvimento. Habilidade em planejamento estratégico de TI.

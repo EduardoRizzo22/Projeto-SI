@@ -1,0 +1,4 @@
+Nome: Rodrigo Fontes
+Idade: 29
+Escolaridade: Graduado
+Experiência: Analista de Business Intelligence com 7 anos de experiência em modelagem de dados e criação de dashboards interativos. Proficiente em Tableau, Power BI e Qlik Sense. Gerou insights para tomadas de decisão estratégicas.

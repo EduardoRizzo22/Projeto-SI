@@ -1,0 +1,4 @@
+Nome: Yago Ribeiro
+Idade: 25
+Escolaridade: Graduando
+Experiência: Estudante de Ciência dos Dados. Desenvolveu projetos de análise de dados e visualização usando Python e R. Buscando estágio em ciência de dados ou business intelligence.

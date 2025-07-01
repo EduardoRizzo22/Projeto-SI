@@ -1,0 +1,4 @@
+Nome: Luís Dantas
+Idade: 24
+Escolaridade: Graduando
+Experiência: Estudante de Engenharia de Computação. Desenvolveu pequenos projetos de hardware e software embarcado. Interesse em IoT e robótica.

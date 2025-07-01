@@ -1,0 +1,4 @@
+Nome: Abelardo Gomes
+Idade: 42
+Escolaridade: Post-Graduated
+Experiência: Doutor em Biotecnologia. Pesquisa em engenharia genética e biofármacos. Publicou artigos em revistas científicas e trabalhou em projetos de desenvolvimento de medicamentos.

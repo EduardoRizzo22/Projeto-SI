@@ -1,0 +1,4 @@
+Nome: Bruno Santos
+Idade: 29
+Escolaridade: Graduated
+Experiência: Engenheiro de Produção com 6 anos de experiência em otimização de processos e gestão da cadeia de suprimentos. Implementou metodologias Lean e Six Sigma em indústrias de manufatura.

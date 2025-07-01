@@ -1,0 +1,4 @@
+Nome: André Ribeiro
+Idade: 33
+Escolaridade: Graduado
+Experiência: Desenvolvedor Full-stack com 7 anos de experiência, especialização em Node.js e Angular. Criou APIs RESTful e interfaces de usuário responsivas. Colaborou em equipes multifuncionais para entregar produtos de alta qualidade.

@@ -1,0 +1,4 @@
+Nome: Paulo Ribeiro
+Idade: 41
+Escolaridade: Pós-Graduado
+Experiência: Doutor em Física. Pesquisa em física de partículas e cosmologia. Publicou artigos em revistas especializadas. Experiência em modelagem e simulações computacionais.

@@ -1,0 +1,4 @@
+Nome: Bruno Pereira
+Idade: 27
+Escolaridade: Graduada
+Experiência: Analista de testes de software com 5 anos de experiência em testes funcionais e de regressão. Criou planos de teste e cenários de teste para garantir a qualidade do software.

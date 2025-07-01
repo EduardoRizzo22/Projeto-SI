@@ -1,0 +1,4 @@
+Nome: Fábio Carvalho
+Idade: 38
+Escolaridade: Graduado
+Experiência: Gerente de produto com 12 anos de experiência na área de tecnologia. Liderou o ciclo de vida completo de produtos de software, desde a concepção até o lançamento e pós-lançamento. Orientado a dados e com forte visão estratégica.

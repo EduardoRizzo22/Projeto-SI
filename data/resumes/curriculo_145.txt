@@ -1,0 +1,4 @@
+Nome: Zeca Silva
+Idade: 32
+Escolaridade: Graduado
+Experiência: Desenvolvedor Frontend com 7 anos de experiência em criação de interfaces de usuário responsivas e interativas. Proficiente em HTML, CSS, JavaScript e frameworks como Vue.js e Svelte.

@@ -1,0 +1,4 @@
+Nome: Otávio Soares
+Idade: 20
+Escolaridade: Graduando
+Experiência: Estudante de Jogos Digitais. Desenvolveu um pequeno jogo de plataforma em Unity. Interesse em programação de jogos e design de níveis.

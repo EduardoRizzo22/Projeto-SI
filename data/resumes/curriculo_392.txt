@@ -1,0 +1,4 @@
+Nome: Ubirajara Pinho
+Idade: 38
+Escolaridade: Graduated
+Experiência: Engenheiro Mecatrônico com 12 anos de experiência em automação industrial e robótica. Projetou e implementou sistemas automatizados para indústrias de manufatura e automotiva.

@@ -1,0 +1,4 @@
+Nome: Calebe Gomes
+Idade: 34
+Escolaridade: Graduado
+Experiência: Engenheiro Eletricista com 9 anos de experiência em sistemas de potência e automação industrial. Projetou e implementou soluções para eficiência energética em fábricas e edificações.

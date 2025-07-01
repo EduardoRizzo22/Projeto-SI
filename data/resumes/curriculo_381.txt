@@ -1,0 +1,4 @@
+Nome: João Victor Lima
+Idade: 26
+Escolaridade: Graduated
+Experiência: Desenvolvedor Frontend com 4 anos de experiência em React e Next.js. Criou interfaces de usuário responsivas e otimizadas para desempenho. Trabalhou em e-commerce e plataformas web.

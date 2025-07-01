@@ -1,0 +1,4 @@
+Nome: Zeca Martins
+Idade: 40
+Escolaridade: Graduado
+Experiência: Arquiteto de Soluções Cloud com 15 anos de experiência em design e implementação de arquiteturas em nuvem (AWS, Azure, GCP). Especialista em soluções escaláveis e resilientes.

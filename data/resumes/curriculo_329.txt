@@ -1,0 +1,4 @@
+Nome: Igor Sampaio
+Idade: 45
+Escolaridade: Post-Graduated
+Experiência: Diretor de Operações de TI com 20 anos de experiência em infraestrutura e segurança de sistemas. Liderou a transformação de ambientes de TI para a nuvem. Experiência em gestão de crises.

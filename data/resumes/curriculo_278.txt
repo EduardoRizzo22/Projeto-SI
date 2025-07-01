@@ -1,0 +1,4 @@
+Nome: Eduardo Gomes
+Idade: 29
+Escolaridade: Pós-Graduada
+Experiência: Mestre em Engenharia de Energia. Especialista em energia solar fotovoltaica e sistemas de armazenamento de energia. Projetou e implementou sistemas para residências e empresas.

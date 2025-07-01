@@ -1,0 +1,4 @@
+Nome: Elias Fernandes
+Idade: 30
+Escolaridade: Graduado
+Experiência: Analista de Segurança da Informação com 5 anos de experiência em detecção de ameaças e resposta a incidentes. Realizou análises de vulnerabilidade e gerenciamento de riscos.

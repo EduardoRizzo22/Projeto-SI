@@ -1,0 +1,4 @@
+Nome: Luana Silva
+Idade: 33
+Escolaridade: Post-Graduated
+Experiência: Mestre em Estatística. Especialista em modelagem preditiva e análise de dados complexos. Utilizou R e Python para desenvolver soluções baseadas em dados para o setor de saúde.

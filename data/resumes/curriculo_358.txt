@@ -1,0 +1,4 @@
+Nome: Maurício Cruz
+Idade: 25
+Escolaridade: Graduated
+Experiência: Analista de Suporte de TI com 3 anos de experiência em suporte técnico a usuários finais. Resolveu problemas de software e hardware, e forneceu treinamento básico.

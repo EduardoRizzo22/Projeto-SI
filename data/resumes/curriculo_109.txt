@@ -1,0 +1,4 @@
+Nome: Otávio Pires
+Idade: 49
+Escolaridade: Graduado
+Experiência: Gerente de Segurança da Informação com 20 anos de experiência em cibersegurança e gestão de riscos. Implementou políticas de segurança e gerenciou incidentes em grandes corporações.

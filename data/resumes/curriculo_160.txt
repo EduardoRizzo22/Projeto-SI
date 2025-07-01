@@ -1,0 +1,4 @@
+Nome: Orlando Pires
+Idade: 36
+Escolaridade: Graduado
+Experiência: Cientista de Dados com 10 anos de experiência em aprendizado de máquina e análise preditiva. Construiu modelos complexos para otimização de marketing e precificação em empresas de varejo.

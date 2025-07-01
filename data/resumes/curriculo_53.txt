@@ -1,0 +1,4 @@
+Nome: Jorge Dias
+Idade: 36
+Escolaridade: Pós-Graduado
+Experiência: Doutor em Engenharia Elétrica. Pesquisa em sistemas de energia renovável e eletrônica de potência. Publicou artigos sobre otimização de sistemas fotovoltaicos.

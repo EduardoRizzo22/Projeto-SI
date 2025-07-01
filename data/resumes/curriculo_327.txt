@@ -1,0 +1,4 @@
+Nome: Gabriel Correia
+Idade: 27
+Escolaridade: Graduated
+Experiência: Desenvolvedor Full-stack Júnior com 2 anos de experiência em JavaScript, Node.js e React. Contribuiu para o desenvolvimento de aplicações web e APIs. Ansioso para aprender novas tecnologias.

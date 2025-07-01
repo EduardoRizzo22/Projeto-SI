@@ -1,0 +1,4 @@
+Nome: Ricardo Pires
+Idade: 24
+Escolaridade: Graduando
+Experiência: Estudante de Engenharia Mecatrônica, com interesse em robótica e automação. Desenvolveu um braço robótico em projeto acadêmico. Busca experiênc ia em desenvolvimento de sistemas embarcados.

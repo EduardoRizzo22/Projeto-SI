@@ -1,0 +1,4 @@
+Nome: Gabriela Pereira
+Idade: 27
+Escolaridade: Graduated
+Experiência: Designer de UX/UI com 4 anos de experiência em pesquisa de usuário e prototipagem. Proficiente em Figma e Sketch. Desenvolveu interfaces intuitivas para aplicativos móveis e web.

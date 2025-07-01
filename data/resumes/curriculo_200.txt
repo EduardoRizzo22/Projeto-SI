@@ -1,0 +1,4 @@
+Nome: Celso Gomes
+Idade: 41
+Escolaridade: Pós-Graduado
+Experiência: Doutor em Engenharia Civil. Pesquisa em estruturas de concreto protendido e pontes. Atua como engenheiro calculista e professor universitário.

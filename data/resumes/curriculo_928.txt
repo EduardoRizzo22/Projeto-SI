@@ -1,0 +1,4 @@
+Nome: Bento Ferreira
+Idade: 27
+Escolaridade: Graduada
+Experiência: Engenheira eletricista com 5 anos de experiência em projetos de automação industrial e sistemas de controle. Implementou soluções para eficiência energética em indústrias.

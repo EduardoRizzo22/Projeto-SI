@@ -1,0 +1,4 @@
+Nome: Nuno Costa
+Idade: 31
+Escolaridade: Pós-Graduada
+Experiência: Doutor em engenharia de telecomunicações. Pesquisa em redes 5G e comunicação por satélite. Atua como professor universitário e consultor para empresas de telecomunicações.

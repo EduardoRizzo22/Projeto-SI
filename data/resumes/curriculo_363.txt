@@ -1,0 +1,4 @@
+Nome: Renata Vieira
+Idade: 30
+Escolaridade: Post-Graduated
+Experiência: Mestre em Ciência dos Dados. Especialista em aprendizado de máquina e análise preditiva. Construiu modelos para otimização de negócios e detecção de fraudes em grandes empresas.

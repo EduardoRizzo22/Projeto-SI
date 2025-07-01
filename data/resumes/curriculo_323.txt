@@ -1,0 +1,4 @@
+Nome: Caio Pinho
+Idade: 35
+Escolaridade: Graduated
+Experiência: Engenheiro de Qualidade com 10 anos de experiência em sistemas de gestão da qualidade. Implementou metodologias Lean Six Sigma e conduziu auditorias internas. Foco em melhoria contínua.

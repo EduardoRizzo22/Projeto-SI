@@ -1,0 +1,4 @@
+Nome: Thiago Nunes
+Idade: 29
+Escolaridade: Graduado
+Experiência: Analista de segurança da informação com 6 anos de experiência em proteção de dados e sistemas. Realizou testes de penetração e auditorias de segurança. Implementou medidas de segurança para empresas de telecomunicações.

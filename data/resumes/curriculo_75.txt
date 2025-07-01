@@ -1,0 +1,4 @@
+Nome: Fábio Martins
+Idade: 38
+Escolaridade: Pós-Graduado
+Experiência: Doutor em Engenharia Biomédica. Pesquisa em dispositivos médicos e bioengenharia. Desenvolveu protótipos de equipamentos e conduziu testes clínicos.

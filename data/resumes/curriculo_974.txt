@@ -1,0 +1,4 @@
+Nome: Xavier Ramos
+Idade: 35
+Escolaridade: Graduada
+Experiência: Especialista em cibersegurança com 9 anos de experiência em segurança de aplicações e infraestrutura. Realizou testes de penetração e auditorias de segurança para bancos e empresas de tecnologia.

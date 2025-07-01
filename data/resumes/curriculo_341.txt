@@ -1,0 +1,4 @@
+Nome: Vinícius Mota
+Idade: 22
+Escolaridade: Undergraduate
+Experiência: Estudante de terceiro ano de engenharia de software, com interesse em inteligência artificial. Desenvolveu um chatbot simples usando frameworks de IA. Ansioso por experiência em projetos de IA.

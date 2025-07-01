@@ -1,0 +1,4 @@
+Nome: Rafaela Castro
+Idade: 25
+Escolaridade: Graduated
+Experiência: Cientista de Dados Júnior com 2 anos de experiência em análise de dados e visualização. Proficiente em Python e SQL. Desenvolveu dashboards interativos para insights de negócios.

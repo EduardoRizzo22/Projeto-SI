@@ -1,0 +1,4 @@
+Nome: Elton Dantas
+Idade: 29
+Escolaridade: Graduado
+Experiência: Engenheiro Mecânico com 6 anos de experiência em projeto e análise de componentes mecânicos. Utilizou software CAD/CAE para otimização de projetos. Trabalhou em indústrias automotivas.

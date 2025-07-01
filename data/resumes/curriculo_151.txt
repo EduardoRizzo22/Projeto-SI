@@ -1,0 +1,4 @@
+Nome: Felipe Azevedo
+Idade: 34
+Escolaridade: Graduado
+Experiência: Engenheiro de Software Embarcado com 9 anos de experiência em desenvolvimento de firmware e software para dispositivos eletrônicos. Proficiente em C/C++ e microcontroladores.

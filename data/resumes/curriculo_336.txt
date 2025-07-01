@@ -1,0 +1,4 @@
+Nome: Pâmela Vieira
+Idade: 30
+Escolaridade: Post-Graduated
+Experiência: Mestre em Design de Interação. Especialista em experiência do usuário (UX) e design de interfaces (UI). Desenvolveu soluções centradas no usuário para aplicativos móveis e web.

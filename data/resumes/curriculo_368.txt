@@ -1,0 +1,4 @@
+Nome: Washington Pinho
+Idade: 20
+Escolaridade: Undergraduate
+Experiência: Estudante de segundo ano de ciência da computação, com interesse em inteligência artificial. Desenvolveu um assistente virtual simples. Ansioso por experiência em projetos de IA e PNL.

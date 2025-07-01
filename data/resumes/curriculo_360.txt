@@ -1,0 +1,4 @@
+Nome: Osmar Dias
+Idade: 31
+Escolaridade: Post-Graduated
+Experiência: Mestre em Engenharia de Software. Especialista em arquitetura de microsserviços e DevOps. Liderou a implementação de soluções de software escaláveis e resilientes.

@@ -1,0 +1,4 @@
+Nome: Vinícius Mota
+Idade: 22
+Escolaridade: Undergraduate
+Experiência: Estudante de terceiro ano de engenharia de software, com interesse em desenvolvimento mobile. Desenvolveu aplicativos Android nativos. Ansioso por experiência em desenvolvimento de aplicativos.

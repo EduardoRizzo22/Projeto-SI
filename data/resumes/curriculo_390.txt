@@ -1,0 +1,4 @@
+Nome: Samuel Ferreira
+Idade: 27
+Escolaridade: Graduated
+Experiência: Analista de Sistemas com 5 anos de experiência em análise de requisitos e design de software. Trabalhou em projetos para o setor financeiro e bancário, garantindo a qualidade do sistema.

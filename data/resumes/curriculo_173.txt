@@ -1,0 +1,4 @@
+Nome: Bruno Cardoso
+Idade: 29
+Escolaridade: Graduado
+Experiência: Engenheiro de Dados com 6 anos de experiência em construção e manutenção de pipelines de dados. Proficiente em Python, SQL e ferramentas de ETL. Trabalhou com grandes volumes de dados para análises de negócios.

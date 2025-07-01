@@ -1,0 +1,4 @@
+Nome: Otávio Dantas
+Idade: 35
+Escolaridade: Pós-Graduado
+Experiência: Mestre em Gestão de Projetos. Especialista em metodologia ágil e SCRUM. Liderou projetos complexos de software em startups e empresas de TI. Certificado Scrum Master.

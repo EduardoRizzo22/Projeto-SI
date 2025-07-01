@@ -1,0 +1,4 @@
+Nome: Paulo Lima
+Idade: 47
+Escolaridade: Graduada
+Experiência: Diretora de Operações de TI com 20 anos de experiência em gestão de infraestrutura, segurança e suporte. Liderou equipes globais de TI e garantiu a disponibilidade de sistemas críticos.

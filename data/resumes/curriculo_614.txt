@@ -1,0 +1,4 @@
+Nome: Marcos Vieira
+Idade: 20
+Escolaridade: Graduando
+Experiência: Estudante de Design de Jogos. Criou conceitos de jogos e documentação de design. Interesse em narrativa de jogos e level design.

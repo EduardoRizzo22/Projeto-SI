@@ -1,0 +1,4 @@
+Nome: Quirino Freitas
+Idade: 33
+Escolaridade: Pós-Graduado
+Experiência: Doutor em Computação Gráfica. Pesquisa em renderização em tempo real e realidade virtual. Atua como desenvolvedor de jogos e especialista em efeitos visuais.

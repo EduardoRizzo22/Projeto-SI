@@ -1,0 +1,4 @@
+Nome: Vicente Alves
+Idade: 37
+Escolaridade: Pós-Graduado
+Experiência: Doutor em Engenharia de Software. Pesquisa em desenvolvimento ágil e arquitetura de microsserviços. Atua como professor universitário e consultor para startups de tecnologia.

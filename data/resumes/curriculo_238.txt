@@ -1,0 +1,4 @@
+Nome: Osmar Dias
+Idade: 32
+Escolaridade: Pós-Graduada
+Experiência: Doutor em Ciência da Computação. Pesquisa em algoritmos distribuídos e sistemas tolerantes a falhas. Atua como professor universitário e pesquisador em computação de alto desempenho.
